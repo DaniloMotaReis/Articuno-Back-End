@@ -22,7 +22,7 @@ O projeto consiste na criação de funções básicas de uma rede social, como c
 # Como inicializar o projeto
 
 Requisitos<br>
-•	Tenha o jdk 17 instalado ou uma ide que já possua o jdk da mesma versão como o Eclipse<br>
+•	jdk 17 instalado ou uma ide que já possua o jdk da mesma versão como o Eclipse<br>
 • Visual Studio Code + Live Server
 
 Para e execução do projeto é necessário o que o front e o back estejam presentes<br>
