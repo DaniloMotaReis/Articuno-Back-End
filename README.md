@@ -1,2 +1,36 @@
 # Articuno-Back-End
-Articuno-Back-End
+
+# Articuno
+
+# Sobre o projeto
+
+O Articuno é um projeto de uma rede social para o desenvolvimento de um projeto acadêmico, voltado na aprendizagem de Spring Boot e utilização de frameworks e dependências.
+O projeto consiste na criação de funções básicas de uma rede social, como cadastrar, logar, postar, reagir e comentar.
+
+# Tecnologias presentes no projeto
+
+# Front end
+•	Jquery
+•	Bootstrap
+
+# Back end
+•	Spring Boot
+•	Hibernate
+•	Maven
+•	Bcrypt
+
+# Como inicializar o projeto
+
+# Requisitos
+•	Tenha o jdk 17 instalado ou uma ide que já possua o jdk da mesma versão como o Eclipse
+• Visual Studio Code + Live Server
+
+Para e execução do projeto é necessário o que o front e o back estejam presentes
+
+Clone os repositórios 
+Front: https://github.com/DaniloMotaReis/Articuno-Front-End
+Back: https://github.com/DaniloMotaReis/Articuno-Back-End 
+
+Execute o back-end utilizando o jdk ou uma ide
+
+Inicie o front executando iniciando o live server no Visual Code
