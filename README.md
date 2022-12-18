@@ -28,8 +28,8 @@ O projeto consiste na criação de funções básicas de uma rede social, como c
 Para e execução do projeto é necessário o que o front e o back estejam presentes
 
 Clone os repositórios 
-Front: https://github.com/DaniloMotaReis/Articuno-Front-End
-Back: https://github.com/DaniloMotaReis/Articuno-Back-End 
+•	Front: https://github.com/DaniloMotaReis/Articuno-Front-End
+•	Back: https://github.com/DaniloMotaReis/Articuno-Back-End 
 
 Execute o back-end utilizando o jdk ou uma ide
 
