@@ -25,7 +25,7 @@ Requisitos<br>
 •	jdk 17 instalado ou uma ide que já possua o jdk da mesma versão como o Eclipse<br>
 • Visual Studio Code + Live Server
 
-Para e execução do projeto é necessário o que o front e o back estejam presentes<br>
+Para a execução do projeto é necessário que o front e o back estejam presentes<br>
 
 Clone os repositórios<br>
 •	Front: https://github.com/DaniloMotaReis/Articuno-Front-End<br>
@@ -33,4 +33,4 @@ Clone os repositórios<br>
 
 Execute o back-end utilizando o jdk ou uma ide<br>
 
-Inicie o front executando iniciando o live server no Visual Code
+Inicie o front executando o live server no Visual Code
