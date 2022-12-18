@@ -29,7 +29,7 @@ public class PostsService {
 		return this.postsRepository.findAll();
 	}
 	
-	public Optional<Posts> findById(int idReaction) {
-		return this.postsRepository.findById(idReaction);
+	public Optional<Posts> findById(int id) {
+		return this.postsRepository.findById(id);
 	}
 }
