@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-O Articuno é um projeto de uma rede social para o desenvolvimento de um projeto acadêmico, voltado na aprendizagem de Spring Boot e utilização de frameworks e dependências.
+O Articuno é um projeto de uma rede social para o desenvolvimento de um projeto acadêmico, voltado na aprendizagem de Spring Boot e utilização de frameworks e dependências.<br>
 O projeto consiste na criação de funções básicas de uma rede social, como cadastrar, logar, postar, reagir e comentar.
 
 # Tecnologias presentes no projeto
